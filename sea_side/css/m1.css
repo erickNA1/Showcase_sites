@@ -1,0 +1,33 @@
+.m1 {
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    background: #6b8471;
+}
+
+.m1 .container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.m1 .container p {
+    position: relative;
+    width: 60%;
+    height: auto;
+    color: white;
+    font-size: 1.2em;
+    text-align: center;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 800px) {
+    .m1 .container p {
+
+        width: 90%;
+        
+    }
+}

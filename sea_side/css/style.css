@@ -1,0 +1,9 @@
+@import url('./html.css');
+@import url('./header.css');
+@import url('./landing.css');
+@import url('./m1.css');
+@import url('./ov.css');
+@import url('./about.css');
+@import url('./contact.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Megrim&family=Open+Sans:wght@300;400&display=swap');
